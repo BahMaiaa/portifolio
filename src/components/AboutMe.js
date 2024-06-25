@@ -12,7 +12,7 @@ function AboutMe() {
                 </div>
                 <div className="max-w-[600px] px-4 md:px-0">
                     <p className="text-white font-normal text-[18px] text-justify">
-                        "Sou um desenvolvedor com uma paixão inabalável por criar experiências digitais inovadoras e funcionais. Focado no desenvolvimento front-end, procuro continuamente aprimorar e inovar nas interfaces digitais. Com uma trajetória robusta em projetos desafiadores, estou capacitado para enfrentar qualquer obstáculo no desenvolvimento web. Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas em 2014, também me especializei em cursos de front-end para oferecer soluções técnicas de alta qualidade."
+                        "Sou um desenvolvedora com uma paixão inabalável por criar experiências digitais inovadoras e funcionais. Focado no desenvolvimento front-end, procuro continuamente aprimorar e inovar nas interfaces digitais. Com uma trajetória robusta em projetos desafiadores, estou capacitado para enfrentar qualquer obstáculo no desenvolvimento web. Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas em 2014, também me especializei em cursos de front-end para oferecer soluções técnicas de alta qualidade."
                     </p>
                 </div>
             </div>
