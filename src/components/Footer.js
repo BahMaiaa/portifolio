@@ -14,8 +14,8 @@ function Footer() {
                     <img src={logo} alt='Footer' />
                 </div>
                 <div className='space-x-10 mr-0 md:mr-20 text-center flex-col md:flex-row md:flex'>
-                    <span className='text-secondary text-xl block'>(11) 96809-8975</span>
-                    <span className='text-secondary text-xl block'>thiagodiogenes@yahoo.com.br</span>
+                    <span className='text-secondary text-xl block'>(11) 914629246</span>
+                    <span className='text-secondary text-xl block'>bahmmaia@gmail.com</span>
                 </div>
 
                 <div className='flex items-center gap-6 '>
@@ -44,7 +44,7 @@ function Footer() {
                     </ul>
                 </nav>
                 <div>
-                    <p className='text-secondary text-xl max-w-[280px] md:max-w-full mt-6 md:mt-0'>Desenvolvido e construído por <span className='text-white'>Thiago Gonçalves</span> com <span className='text-white'>Amor</span> & <span className='text-white'>Café</span></p>
+                    <p className='text-secondary text-xl max-w-[280px] md:max-w-full mt-6 md:mt-0'>Desenvolvido e construído por <span className='text-white'>Bárbara Maia</span> com <span className='text-white'>Amor</span> & <span className='text-white'>Café</span></p>
                 </div>
             </div>
         </footer>

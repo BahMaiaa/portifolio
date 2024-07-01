@@ -1,4 +1,4 @@
-import perfil from "../assets/banner-profile-v1.png"
+import perfil from "../assets/logobm.png"
 import Typewriter from "./Typewriter/Typewriter";
 
 
@@ -8,17 +8,17 @@ function Banner() {
     <div className="flex flex-col items-center justify-center" >
       <div>
         <div >
-          <img src={perfil} alt="Thiago" className=" " />
+          <img src={perfil} alt="Barbara" className=" " />
         </div>
       </div>
       <div className="mt-4 md:mt-0">
 
         <Typewriter
           sentences={[
-            'Olá, meu nome é Thiago',
-            'Eu sou desenvolvedor web',
-            'Eu sou criativo',
-            'Eu amo programar!',
+            'Olá, meu nome é Bárbara',
+            'Eu sou desenvolvedora web',
+            'Sou criativa',
+            'Amo programar!',
             'E enfrento qualquer desafio',
           ]}
           typingSpeed={100} //default 100

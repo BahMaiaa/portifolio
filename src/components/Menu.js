@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { List, X } from 'phosphor-react';  // Ícones da Phosphor
-import logo from '../assets/logo-dev.svg';
+import logo from '../assets/menu.png';
 import github from '../assets/github.svg';
 import twitter from '../assets/twitter.svg';
 import linkedin from '../assets/linkedin.svg';
